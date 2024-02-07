@@ -27,9 +27,6 @@ I currently work as a PMO at Cognizant and I will share a little about my routin
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
 
 
  <h3>Tools & Frameworks</h3>
