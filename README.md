@@ -44,4 +44,3 @@ Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
- <h3>Em breve, bibliotecas</h3>
