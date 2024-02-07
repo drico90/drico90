@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello Guys!</h1></summary>
+    <summary><h1 style="display: inline-block">Olá!</h1></summary>
 </div>
 <p>
  Olá! 👋, eu sou o Adriano! Um entusiasta de tecnologia e estudante de Python e Dados.
@@ -12,7 +12,7 @@
 
 👨‍💻More about me:
 
-Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minha rotina, responsabilidades e função. Como PMO júnior, estou envolvido em uma variedade de tarefas cruciais para garantir o sucesso dos projetos em que estou envolvido. Isso inclui auxiliar na criação e manutenção de planos de projeto, monitorar o progresso das atividades, preparar relatórios de status e garantir que todos os envolvidos estejam alinhados com os objetivos e prazos estabelecidos. Além disso, sou responsável por manter a documentação do projeto atualizada, organizar reuniões e facilitar a comunicação entre os membros da equipe. Essa experiência, assim como as anteriores, me trouxe muitos conhecimentos e sei que eles me ajudarão em minha função como desenvolvedor.
+Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minha rotina, responsabilidades e função. Como PMO júnior, estou envolvido em uma variedade de tarefas cruciais para garantir o sucesso dos projetos em que estou envolvido. Isso inclui auxiliar na criação e manutenção de planos de projeto, monitorar o progresso das atividades, preparar relatórios de status e garantir que todos os envolvidos estejam alinhados com os objetivos e prazos estabelecidos. Além disso, sou responsável por manter a documentação do projeto atualizada, organizar reuniões e facilitar a comunicação entre os membros da equipe. Essa experiência, assim como as anteriores, me trouxe muitos conhecimentos e sei que eles me ajudarão em minhas atividades como desenvolvedor.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drico90/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-soares-santos/)
 
