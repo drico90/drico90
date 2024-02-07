@@ -8,7 +8,7 @@
 
 🌱 I'm currently studying SQL, NoSQL Python and data engineering concepts at Digital Innovation One.
 
-🔭 I'm looking for my first opportunity as a Python Jr developer. My dream is to work on developing friendly and intuitive solutions that facilitate the use of technology.
+🔭 I'm looking for my first opportunity as a Jr developer. My dream is to work on developing friendly and intuitive solutions that facilitate the use of technology.
 
 👨‍💻More about me:
 
