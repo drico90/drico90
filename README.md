@@ -6,7 +6,7 @@
 <p>
  Hi! 👋, I'm Adriano! A technology enthusiast and Python student from Brazil.
 
-🌱 I'm currently studying SQL, NoSQL Python and data engineering concepts at Digital Innovation One.
+🌱 I'm currently studying SQL, NoSQL, Python and data engineering concepts at Digital Innovation One.
 
 🔭 I'm looking for my first opportunity as a Jr developer. My dream is to work on developing friendly and intuitive solutions that facilitate the use of technology.
 
