@@ -6,7 +6,7 @@
 <p>
  Olá! 👋, eu sou o Adriano! Um entusiasta de tecnologia e estudante de Python e Dados.
 
-🌱 Atualmente, estou estudando SQL, NoSQL, Python e conceitos de engenharia de dados na Digital Innovation One
+🌱 Atualmente, estou estudando SQL, NoSQL, Python e conceitos de engenharia de dados na Digital Innovation One.
 
 🔭 Estou em busca de minha primeira oportunidade como desenvolvedor Jr. Meu objetivo é trabalhar no desenvolvimento de soluções amigáveis e intuitivas que facilitem o uso da tecnologia.
 
