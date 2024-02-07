@@ -4,15 +4,15 @@
     <summary><h1 style="display: inline-block">Hello Guys!</h1></summary>
 </div>
 <p>
- Hi! 👋, I'm Adriano! A technology enthusiast and Python student from Brazil.
+ Olá! 👋, eu sou o Adriano! Um entusiasta de tecnologia e estudante de Python e Dados.
 
-🌱 I'm currently studying SQL, NoSQL, Python and data engineering concepts at Digital Innovation One.
+🌱 Atualmente, estou estudando SQL, NoSQL, Python e conceitos de engenharia de dados na Digital Innovation One
 
-🔭 I'm looking for my first opportunity as a Jr developer. My dream is to work on developing friendly and intuitive solutions that facilitate the use of technology.
+🔭 Estou em busca de minha primeira oportunidade como desenvolvedor Jr. Meu objetivo é trabalhar no desenvolvimento de soluções amigáveis e intuitivas que facilitem o uso da tecnologia.
 
 👨‍💻More about me:
 
-I currently work as a PMO at Cognizant and I will share a little about my routine, responsibilities and role. As a Junior PMO, I am involved in a variety of crucial tasks to ensure the success of the projects I am involved with. This includes assisting in the creation and maintenance of project plans, monitoring the progress of activities, preparing status reports and ensuring that everyone involved is aligned with established objectives and deadlines. Additionally, I am responsible for keeping project documentation up to date, organizing meetings and facilitating communication between team members. This experience, as well as the previous ones, brought me a lot of knowledge and I know they will help me in my role as a developer.
+Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minha rotina, responsabilidades e função. Como PMO júnior, estou envolvido em uma variedade de tarefas cruciais para garantir o sucesso dos projetos em que estou envolvido. Isso inclui auxiliar na criação e manutenção de planos de projeto, monitorar o progresso das atividades, preparar relatórios de status e garantir que todos os envolvidos estejam alinhados com os objetivos e prazos estabelecidos. Além disso, sou responsável por manter a documentação do projeto atualizada, organizar reuniões e facilitar a comunicação entre os membros da equipe. Essa experiência, assim como as anteriores, me trouxe muitos conhecimentos e sei que eles me ajudarão em minha função como desenvolvedor.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drico90/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-soares-santos/)
 
@@ -44,4 +44,4 @@ I currently work as a PMO at Cognizant and I will share a little about my routin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
- <h3>Coming soon, libraries:</h3>
+ <h3>Em breve, bibliotecas</h3>
