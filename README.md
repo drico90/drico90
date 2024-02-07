@@ -21,7 +21,7 @@ Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minh
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
+    <h3>Linguagens</h3>
    <div align="left">
    
 <div align="left">
@@ -29,7 +29,7 @@ Atualmente trabalho como PMO na Cognizant e vou compartilhar um pouco sobre minh
   <img width="12" />
 
 
- <h3>Tools & Frameworks</h3>
+ <h3>Ferramentas e Frameworks</h3>
  
    <div align="left">
    <div align="left">
