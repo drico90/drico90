@@ -1,10 +1,10 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá!</h1></summary>
+    <summary><h1 style="display: inline-block">Olá👋!</h1></summary>
 </div>
 <p>
- Olá! 👋, eu sou o Adriano! Um entusiasta de tecnologia e estudante de Python e Dados.
+Me chamo Adriano! Um entusiasta de tecnologia e estudante de Python e Dados.
 
 🌱 Atualmente, estou estudando SQL, NoSQL, Python e conceitos de engenharia de dados na Digital Innovation One.
 
